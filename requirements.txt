@@ -1,0 +1,13 @@
+# SPSS 数据阅读器 — 依赖清单
+# 安装: pip install -r requirements.txt
+
+# ── 数据读取 ──
+pandas>=2.0.0
+pyreadstat>=1.2.0
+
+# ── GUI ──
+customtkinter>=5.2.0
+tkinterdnd2>=0.4.0
+
+# ── 打包（可选） ──
+# pyinstaller>=6.0
